@@ -56,7 +56,7 @@ def get_data(token):
             parsed_data = parse_data(data)
             with open('data.json', 'w') as f:
                 json.dump(parsed_data, f, indent=4)
-                print('Successfully created data.json.')
+                print('Successfully created data.json')
         else:
             print('Failed to get data:', response.status_code, response.text)
     except:

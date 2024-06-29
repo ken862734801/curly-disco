@@ -11,6 +11,7 @@ def parse_data(data):
                 'value': entry['chartEntryData']['rankingMetric']['value']
             }
             parsed_entries.append(parsed_entry)
+        return parsed_entries
     except KeyError as e:
         print(f'Key error: {e}')
     except Exception as e:
