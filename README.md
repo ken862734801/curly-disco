@@ -14,7 +14,7 @@ Before you can run the script, ensure you have python installed:
 
 Clone the repository:
 
-    git@github.com:ken862734801/curly-disco.git
+    git clone git@github.com:ken862734801/curly-disco.git
 
 Create a virtual environment:
 
