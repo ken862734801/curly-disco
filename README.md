@@ -1,6 +1,6 @@
 # curly-disco
 
-The script used to get chart data for the higher-or-lower-spotify app. 
+The script used to get chart data for the [higher-or-lower-spotify](https://poster-generator-eight.vercel.app/) app. 
 
 ## Getting Started
 
