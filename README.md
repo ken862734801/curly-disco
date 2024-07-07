@@ -37,6 +37,6 @@ Create a .env file in the root directory of the project and add your Spotify API
 
 To start the script, run:
 
-    python main.py
+    python3 main.py
 
 
